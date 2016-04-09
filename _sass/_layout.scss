@@ -2,13 +2,14 @@
  * Site header
  */
 .site-header {
+  background: linear-gradient(to right, $brand-color, lighten($brand-color, 20%));
   background-color: $brand-color;
   min-height: 56px;
   color: #fff;
   text-align: center;
 
     @media (min-width:$on-laptop){
-      height: 40vh;
+      min-height: 30vh;
       display: flex;
       align-items: center;
     }
@@ -124,9 +125,33 @@
 .post-list {
     margin-left: 0;
     list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+
+    > li:nth-child(even) {
+        padding-left: $spacing-unit / 2;
+    }
+
+    > li:nth-child(odd) {
+        padding-right: $spacing-unit / 2;
+    }
 
     > li {
         margin-bottom: $spacing-unit;
+        flex: 0 0 auto;
+        width: 50%;
+
+    }
+    @include media-query($on-palm) {
+      > li:nth-child(even),
+      > li:nth-child(odd) {
+        padding-right: 0;
+        padding-left: 0;
+      }
+
+      >li {
+        width: 100%;
+      }
     }
 }
 
@@ -136,8 +161,17 @@
 }
 
 .post-link {
-    display: block;
-    font-size: 24px;
+    display: flex;
+    min-height: 4rem;
+    align-items:flex-end;
+    background-color: #fff;
+
+
+    h2{
+      font-size: 1rem;
+      padding: $spacing-unit;
+      margin: 0;
+    }
 }
 
 

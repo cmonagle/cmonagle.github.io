@@ -8,7 +8,9 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+* {
+  box-sizing: border-box;
+}
 
 /**
  * Basic styling
@@ -23,7 +25,8 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
-}
+    box-sizing: border-box;
+  }
 
 
 
