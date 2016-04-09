@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Cameron Monagle
+email: cameron.jm@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm good at talking to humans and giving computers instructions.
+  I do those things in English, French, PHP, JavaScript (Node.js),
+  jQuery, CSS/SASS, HTML, Illustrator, Photoshop.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://cameronmonagle.com" # the base hostname & protocol for your site
+twitter_username: cmonagle
+github_username:  cmonagle
+
+# Build settings
+markdown: kramdown
