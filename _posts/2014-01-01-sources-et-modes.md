@@ -11,4 +11,4 @@ categories:
 ---
 Developed a static website to encourage student participation in Quebec&#8217;s largest student survey.
 
-<a href="http://cameronjoseph.com/projects/sourcesetmodes/" target="_blank">Archive available here.</a>
+![Sources et Modes Screencap](/assets/images/sourcesetmodes.jpg)

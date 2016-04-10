@@ -10,3 +10,4 @@ categories:
   - Portfolio
 ---
 Created a beautiful, bilingual WordPress website to underscore the 25th anniversary of the the Quebec Federation of University Students. It was responsive, and based on Bootstrap.
+![25e Screencap](/assets/images/25e.png)

@@ -12,3 +12,5 @@ categories:
 Developed and tweaked a WordPress child theme for the business students' association at UQAM. Graphical elements were revised and the website was optimized for all devices.
 
 [Current website available here](http://aeesg.com).
+
+![AEESG Screencap](/assets/images/aeesg.jpg)
