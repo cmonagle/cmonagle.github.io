@@ -50,6 +50,12 @@ img {
     vertical-align: middle;
 }
 
+.post img{
+  padding: 0;
+  margin: 35px 0;
+  box-shadow: rgba(0, 0, 0, 0.2) 0 0 24px;
+}
+
 
 
 /**
@@ -90,7 +96,74 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 1px;
 }
 
+/**
+ * Post navigation
+ **/
 
+ .post-title {
+   text-transform: none;
+   font-weight: $base-font-weight;
+ }
+ .post-header {
+   &:after {
+     content: "";
+     height: 2px;
+     width: 100%;
+     background-color: lighten($brand-color, 50%);
+     display: block;
+   }
+ }
+ .post-nav{
+   display: block;
+
+   &:after {
+     content: "";
+     display: table;
+     height: 1px;
+     width: 100%;
+   }
+
+    a {
+     font-size: 2rem;
+     display: block;
+
+     &:hover{
+       text-decoration: none;
+     }
+
+     @media (min-width:$on-laptop){
+       position: fixed;
+       top: 50%;
+       transform: translateY(-50%);
+       font-size: 4rem;
+       line-height: 3.4rem;
+       text-align: center;
+       color: #fff;
+       height: 4rem;
+       width: 4rem;
+       background-color: $brand-color;
+
+       &:visited,
+       &:link{
+         color: #fff;
+       }
+
+     }
+      &.prev {
+        float: left;
+        @media (min-width:$on-laptop){
+          left: 0;
+        }
+      }
+      &.next {
+        float: right;
+
+        @media (min-width:$on-laptop){
+          right: 0;
+        }
+     }
+   }
+ }
 
 /**
  * Links
