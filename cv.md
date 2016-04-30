@@ -4,16 +4,16 @@ title: CV
 date: 2015-08-08T00:02:43+00:00
 author: cmonagle
 layout: page
-guid: http://cameronjoseph.com/blog/?page_id=122
 ---
+This is also available in [PDF format](/assets/docs/cv.pdf)
 
 ## Experience
 
-**Web Developer at CleverToday &#8211; **_November 2015 &#8211; Present_
+**Web Developer at CleverToday** &#8211; _November 2015 &#8211; Present_
 
 I work in various development environments integrating the front-end of web applications. Platforms vary from Node.js to WordPress to Django. I have also dabbled in back-end development, using test driven development to produce a RESTful API with Node.js and MongoDB. I collaborate closely with both designers and back end developers to deliver pixel-perfect and performant web applications in tight timeframes.
 
-**Web Developer at Semaphore Campaigns &#8211; **_May 2015 &#8211; Present_
+**Web Developer at Semaphore Campaigns** &#8211; _May 2015 &#8211; Present_
 
 In 2015, in collaboration with some very talented colleagues, I founded Semaphore Campaigns, a cooperative that brings together professionals from several domains: political organizing, web development, graphic design, and communications.
 
