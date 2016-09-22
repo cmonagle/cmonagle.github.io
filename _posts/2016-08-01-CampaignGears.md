@@ -4,7 +4,7 @@ title: Campaign Gears
 date: 2016-07-01T14:49:46+00:00
 author: cmonagle
 layout: project
-permalink: /clever/
+permalink: /campaigngears/
 categories:
   - Portfolio
 ---
