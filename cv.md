@@ -69,7 +69,7 @@ NationBuilder Expert
 ## Education
 
 **Concordia University**
-_Bachelor&#8217;s Degree, History, 2009 &#8211; 2013_
+_Bachelor&#8217;s Degree, 2009 &#8211; 2013_
 
 Activities and Societies: Sat on the boards of student association (CSU) and the University. Worked in Residence life, organised Alternative Spring Break Program, involved in various student initiatives and projects.
 
