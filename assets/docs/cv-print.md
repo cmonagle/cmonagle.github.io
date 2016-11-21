@@ -7,7 +7,7 @@ Toronto
 ## Experience
 
 ### Web Developer at CleverToday
- _October 2015 &#8211; Present_
+ _November 2015 &#8211; November 2016_
 
 I work in various development environments integrating the front-end of web applications. Platforms vary from Node.js to WordPress to Django. I have also dabbled in back-end development, using test driven development to produce a RESTful API with Node.js and MongoDB. I collaborate closely with both designers and back end developers to deliver pixel-perfect and performant web applications in tight timeframes.
 
@@ -17,7 +17,7 @@ I work in various development environments integrating the front-end of web appl
 Worked on several projects for clients in associative sector, often integrating with NationBuilder. Responsible for both front and back end components, including developing a RESTful API and a pure javascript front end to help connect constituents with the elected officials.
 
 ### Web Developer at Semaphore Campaigns
- _May 2015 &#8211; Present_
+ _2015 &#8211; 2016_
 
 In 2015, in collaboration with some very talented colleagues, I founded Semaphore Campaigns, a cooperative that brings together professionals from several domains: political organizing, web development, graphic design, and communications. I lead the web development side of most projects, and am sometimes responsible for project management.
 
@@ -68,7 +68,7 @@ NationBuilder Expert
 ## Education
 
 **Concordia University**
-_Bachelor&#8217;s Degree, History, 2009 &#8211; 2013_
+_Bachelor&#8217;s Degree, 2009 &#8211; 2013_
 
 Activities and Societies: Sat on the boards of student association (CSU) and the University. Worked in Residence life, organised Alternative Spring Break Program, involved in various student initiatives and projects.
 

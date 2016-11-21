@@ -14,3 +14,6 @@ See it live at cmonagle.github.io/
 - Clone/download the repository
 - ```npm install```
 - ```gulp``` launches Jekyll server and watches directory
+
+Snippet to generate CV
+```pandoc cv-print.md --latex-engine=xelatex -V geometry:margin=1cm -o cv.pdf```
