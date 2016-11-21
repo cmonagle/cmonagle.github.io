@@ -1,0 +1,19 @@
+/** Colors, etc.**/
+$color: #607d8b;
+$font: 'Crimson';
+
+/** Container **/
+$content-width: 34em;
+$gutter: 1em;
+
+/** Breakpoints **/
+$max-sm: 359px;
+$min-sm: 360px;
+$max-md: 599px;
+$min-md: 600px;
+$max-lg: 999px;
+$min-lg: 1000px;
+
+/** Transition **/
+$transition: 500ms ease-in all;
+$transition-short: 100ms linear all;

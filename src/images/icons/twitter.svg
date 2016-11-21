@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 24.999999 20.315218"
+   height="5.7334061mm"
+   width="7.0555553mm">
+  <defs
+     id="defs4">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker84977"
+       style="overflow:visible">
+      <path
+         id="path84979"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker84961"
+       style="overflow:visible">
+      <path
+         id="path84963"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path84697"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <symbol
+       id="twitter">
+      <title
+         id="title82156">Twitter</title>
+      <path
+         id="path82158"
+         d="m 17.316,6.246 c 0.008,0.162 0.011,0.326 0.011,0.488 0,4.99 -3.797,10.742 -10.74,10.742 -2.133,0 -4.116,-0.625 -5.787,-1.697 0.296,0.035 0.596,0.053 0.9,0.053 1.77,0 3.397,-0.604 4.688,-1.615 -1.651,-0.031 -3.046,-1.121 -3.526,-2.621 0.23,0.043 0.467,0.066 0.71,0.066 0.345,0 0.679,-0.045 0.995,-0.131 C 2.84,11.183 1.539,9.658 1.539,7.828 c 0,-0.016 0,-0.031 0,-0.047 0.509,0.283 1.092,0.453 1.71,0.473 C 2.236,7.576 1.569,6.422 1.569,5.111 1.569,4.42 1.755,3.771 2.081,3.213 3.942,5.498 6.725,7 9.862,7.158 9.798,6.881 9.765,6.594 9.765,6.297 c 0,-2.084 1.689,-3.773 3.774,-3.773 1.086,0 2.067,0.457 2.756,1.191 0.859,-0.17 1.667,-0.484 2.397,-0.916 C 18.41,3.68 17.811,4.42 17.032,4.887 17.796,4.795 18.522,4.594 19.2,4.293 18.694,5.051 18.054,5.715 17.316,6.246 Z" />
+    </symbol>
+    <symbol
+       id="messaging-app-symbolic">
+      <title
+         id="title11306">messaging-app-symbolic</title>
+      <g
+         transform="matrix(0,-1,-1,0,373.50506,516.50504)"
+         id="g4845-9"
+         style="display:inline">
+        <g
+           id="g1628"
+           transform="matrix(0,-1,-1,0,572.36222,615.36221)">
+          <g
+             transform="matrix(1.875,0,0,1.875,-366,-1652.8169)"
+             id="g1630">
+            <rect
+               style="opacity:0.21171169;fill:none;stroke:none"
+               id="rect1632"
+               width="48"
+               height="48"
+               x="288"
+               y="152"
+               transform="translate(0,804.3622)" />
+          </g>
+          <path
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none"
+             d="m 206,221.36222 13,-10.09907 -2.05882,-4.20795 -21.88236,0 L 193,211.26315 Z"
+             id="path1652" />
+          <path
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#808080;fill-opacity:1;stroke:none"
+             d="m 191,151.36222 c -10,0 -15,-2e-4 -15,11.62695 l 0,36.7461 c 0,11.62716 5,11.62695 15,11.62695 l 56,0 c 10,0 15,2.1e-4 15,-11.62695 l 0,-36.37305 c 0,-12 -5,-12 -15,-12 z m 3,21 25,0 0,6 -25,0 z m 0,12 50,0 0,6 -50,0 z"
+             id="path4237" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       class="Brand-Icons"
+       id="github">
+      <title
+         id="title8512">GitHub</title>
+      <path
+         id="path8514"
+         d="M 1536,640 Q 1536,389 1389.5,188.5 1243,-12 1011,-89 984,-94 971.5,-82 959,-70 959,-52 l 0,211 q 0,97 -52,142 57,6 102.5,18 45.5,12 94,39 48.5,27 81,66.5 32.5,39.5 53,105 20.5,65.5 20.5,150.5 0,121 -79,206 37,91 -8,204 -28,9 -81,-11 -53,-20 -92,-44 l -38,-24 q -93,26 -192,26 -99,0 -192,-26 -16,11 -42.5,27 -26.5,16 -83.5,38.5 -57,22.5 -86,13.5 -44,-113 -7,-204 -79,-85 -79,-206 0,-85 20.5,-150 20.5,-65 52.5,-105 32,-40 80.5,-67 48.5,-27 94,-39 45.5,-12 102.5,-18 -40,-36 -49,-103 -21,-10 -45,-15 -24,-5 -57,-5 -33,0 -65.5,21.5 Q 379,221 356,262 337,294 307.5,314 278,334 258,338 l -20,3 q -21,0 -29,-4.5 -8,-4.5 -5,-11.5 3,-7 9,-14 6,-7 13,-12 l 7,-5 q 22,-10 43.5,-38 21.5,-28 31.5,-51 l 10,-23 q 13,-38 44,-61.5 31,-23.5 67,-30 36,-6.5 69.5,-7 Q 532,83 554,87 l 23,4 q 0,-38 0.5,-89 0.5,-51 0.5,-54 0,-18 -13,-30 -13,-12 -40,-7 Q 293,-12 146.5,188.5 0,389 0,640 0,849 103,1025.5 206,1202 382.5,1305 559,1408 768,1408 977,1408 1153.5,1305 1330,1202 1433,1025.5 1536,849 1536,640 Z"
+         transform="matrix(0.05,0,0,-0.05,0,76.8)" />
+    </symbol>
+    <symbol
+       class="Brand-Icons"
+       id="linkedin-square">
+      <title
+         id="title8442">LinkedIn Square</title>
+      <path
+         id="path8444"
+         d="m 237,122 231,0 0,694 -231,0 0,-694 z m 246,908 q -1,52 -36,86 -35,34 -93,34 -58,0 -94.5,-34 -36.5,-34 -36.5,-86 0,-51 35.5,-85.5 Q 294,910 351,910 l 1,0 q 59,0 95,34.5 36,34.5 36,85.5 z m 585,-908 231,0 0,398 q 0,154 -73,233 -73,79 -193,79 -136,0 -209,-117 l 2,0 0,101 -231,0 q 3,-66 0,-694 l 231,0 0,388 q 0,38 7,56 15,35 45,59.5 30,24.5 74,24.5 116,0 116,-157 l 0,-371 z m 468,998 0,-960 Q 1536,41 1451.5,-43.5 1367,-128 1248,-128 l -960,0 Q 169,-128 84.5,-43.5 0,41 0,160 l 0,960 Q 0,1239 84.5,1323.5 169,1408 288,1408 l 960,0 q 119,0 203.5,-84.5 Q 1536,1239 1536,1120 Z"
+         transform="matrix(0.05,0,0,-0.05,0,76.8)" />
+    </symbol>
+    <symbol
+       id="maximize">
+      <title
+         id="title4871">maximize</title>
+      <path
+         id="path4873"
+         d="M 2,4 2,5 8,8 14,5 14,4 2,4 Z m 0,2.5 0,5.5 12,0 0,-5.5 -6,3 -6,-3 z" />
+    </symbol>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-116.70633,-365.07499)"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:125%;font-family:Crimson;-inkscape-font-specification:'Crimson, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#616161;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="60.401733"
+       y="131.11646"
+       id="text84687"><tspan
+         id="tspan84689"
+         x="60.401733"
+         y="131.11646">Hi.</tspan><tspan
+         id="tspan84708"
+         x="60.401733"
+         y="187.36646">I'm Cameron Monagle.</tspan><tspan
+         id="tspan84712"
+         x="60.401733"
+         y="243.61646">I make things on the internet.</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#606060;stroke-width:15;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect84691"
+       width="748.52301"
+       height="1054.5992"
+       x="-2.0203052"
+       y="-1.2269001" />
+    <flowRoot
+       transform="translate(92.611697,90)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#606060;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot85076"
+       xml:space="preserve"><flowRegion
+         id="flowRegion85078"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#606060;fill-opacity:1"
+           y="197.77313"
+           x="62.0079"
+           height="161.0955"
+           width="434.05508"
+           id="rect85080" /></flowRegion><flowPara
+         id="flowPara85086" /></flowRoot>    <text
+       id="text493915"
+       y="351.10947"
+       x="115.40994"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Crimson;-inkscape-font-specification:'Crimson, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         y="351.10947"
+         x="115.40994"
+         id="tspan493917">Get in touch:</tspan></text>
+    <g
+       transform="translate(-10,0.14672682)"
+       id="g497495">
+      <use
+         id="use494690"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         xlink:href="#twitter"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(1.3586956,0,0,1.3586957,125.61937,361.49892)" />
+      <use
+         id="use496849"
+         xlink:href="#github"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(0.32552082,0,0,0.32552082,229.16089,360.80796)"
+         style="fill:#ffffff;fill-opacity:1" />
+      <use
+         id="use496874"
+         xlink:href="#linkedin-square"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(0.32552082,0,0,0.32552082,280.38817,360.50254)"
+         style="fill:#ffffff;fill-opacity:1" />
+      <use
+         id="use497375"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         xlink:href="#maximize"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="matrix(2.0833334,0,0,2.0833334,173.76695,358.41921)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:125%;font-family:Crimson;-inkscape-font-specification:'Crimson, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#616161;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="88.783073"
+       y="493.58221"
+       id="text84687-9"><tspan
+         id="tspan497418"
+         x="88.783073"
+         y="493.58221" /></text>
+    <path
+       id="path497453"
+       d="m 372.04724,328.56036 0,66.67007"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text493915-8"
+       y="349.09171"
+       x="455.59177"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Crimson;-inkscape-font-specification:'Crimson, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+         y="349.09171"
+         x="455.59177"
+         id="tspan493917-1" /></text>
+    <flowRoot
+       transform="translate(20,-1.5925344)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:100%;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot497479"
+       xml:space="preserve"><flowRegion
+         id="flowRegion497481"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:100%;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           y="330.10312"
+           x="384.36304"
+           height="61.619305"
+           width="239.91122"
+           id="rect497483" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara497491">Looking for a front end web developer in Toronto?</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:120.00000477%;font-family:Crimson;-inkscape-font-specification:'Crimson, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara497493">Check out my CV.</flowPara></flowRoot>    <text
+       id="text493915-6"
+       y="494.6933"
+       x="69.734116"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#606060;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Crimson;-inkscape-font-specification:'Crimson, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#606060;fill-opacity:1"
+         y="494.6933"
+         x="69.734116"
+         id="tspan493917-8">Some of my past projects:</tspan></text>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot497535"
+       xml:space="preserve"><flowRegion
+         id="flowRegion497537"><rect
+           y="537.18439"
+           x="95.964493"
+           height="62.629459"
+           width="255.56859"
+           id="rect497539" /></flowRegion><flowPara
+         id="flowPara497541"></flowPara></flowRoot>  </g>
+  <g
+     transform="translate(-116.70633,-365.07499)"
+     id="layer2" />
+</svg>

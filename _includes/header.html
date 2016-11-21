@@ -1,17 +1,9 @@
-<header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      {% for my_page in site.pages %}
-        {% if my_page.title %}
-        <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </nav>
-
-  </div>
-
-</header>
+{% if page.url == "/" %}
+  <header class="hero hero--home">
+    <h1>Hi.<br>I'm Cameron Monagle.<br>I make things on the internet.</h1>
+  </header>
+{% else %}
+  <header class="hero hero--small">
+    <a href="/" title="home"><h1> 🡐 Cameron Monagle</h1></a>
+  </header>
+{% endif %}

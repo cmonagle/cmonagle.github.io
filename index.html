@@ -1,23 +1,19 @@
 ---
 layout: default
 ---
+{% include cta.html %}
 
-<div class="home">
-  <p class="lead">
-    {{ site.biography }}
-    <br><a href="mailto:{{ site.email }}">Let's get in touch!</a>
-  </p>
-  <h1 class="page-heading">Projects</h1>
-
-  <ul class="post-list">
+  <div class="projects">
+    <header class="projects__title">
+      <h2>Some previous work:</h2>
+    </header>
     {% for post in site.posts %}
-      <li>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-          <h2>
+      <article class="projects__single">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <h3 class="projects__single-title">
             {{ post.title }}
-          </h2>
+          </h3>
         </a>
-      </li>
+      </article>
     {% endfor %}
-  </ul><!-- post-list -->
-</div>
+  </div><!-- post-list -->

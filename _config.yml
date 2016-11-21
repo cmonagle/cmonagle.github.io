@@ -10,8 +10,7 @@ title: Cameron Monagle
 email: cameron.jm@gmail.com
 description: Montreal Web Developer, progressive activist, and techy-type.
 biography: > # this means to ignore newlines until "baseurl:"
-  Hi! I'm Cameron Monagle. Based in Montreal, my specialties include talking with humans and telling computers what to do.
-  I do those things in English, French, PHP, JavaScript (Node.js), jQuery, CSS/SASS, HTML, Illustrator, Photoshop.
+  Hi! I'm Cameron Monagle. I'm a Toronto base front-end web developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cameronmonagle.com" # the base hostname & protocol for your site
 twitter_username: cmonagle

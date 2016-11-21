@@ -1,0 +1,292 @@
+.hero {
+  @include container();
+  padding: 1em ;
+
+  a {
+    text-decoration: none;
+  }
+  h1 {
+    font-size: 1em;
+    font-weight: normal;
+  }
+
+  &--home {
+    display: flex;
+    height: 80vh;
+    @media (min-width: $min-sm) {
+      align-items: center;
+    }
+    h1 {
+      font-size: 2.25em;
+      font-weight: bold;
+      margin: 0;
+    }
+  }
+}
+
+.cta {
+  bottom: 0;
+  left: 50%;
+  position: fixed;
+  transform: translateX(-50%);
+  transition: 500ms ease-in all;
+  width: 100%;
+
+  @media (min-width: $min-lg) {
+    bottom: $gutter;
+  }
+
+  &--fixed {
+    bottom: 0;
+    &:before {
+      width: 100% !important;
+    }
+
+    .cta__social-title {
+      max-height: 0;
+      opacity: 0;
+    }
+    .cta__cv-lead {
+      max-height: 0;
+      opacity: 0;
+    }
+  }
+
+  &:before {
+    content: '';
+
+    background-color: $color;
+    height: 100%;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+    transition: 500ms ease-in all;
+    width: 10px;
+  }
+
+  &__inner {
+    background-color: $color;
+    color: #fff;
+    @include container();
+    padding: 0;
+    position: relative;
+    transition: 500ms ease-in height;
+    width: 100%;
+
+    @media (min-width: $min-md) {
+      align-items: center;
+      display: flex;
+    }
+  }
+
+  a {
+    color: #fff;
+    display: block;
+    text-decoration: none;
+  }
+  &__social {
+    padding: $gutter;
+    @media (min-width: $min-md) {
+      width: 50%;
+    }
+
+    ul,
+    li {
+      list-style: none;
+      padding-left: 0;
+      position: relative;
+    }
+
+    &-item {
+      display: inline-block;
+      padding-right: $gutter;
+      transition: $transition-short;
+      vertical-align: middle;
+
+      &:hover {
+        transform: scale(1.1);
+      }
+
+      img {
+        display: block;
+        width: 40px;
+      }
+    }
+
+    &-title {
+      font-size: 1.5em;
+      font-style: italic;
+      font-weight: normal;
+      margin: 0;
+      max-height: 4em;
+      transition: 200ms ease-in all;
+    }
+  }
+
+  &__cv {
+    padding: $gutter;
+    position: relative;
+    p {
+      margin: 0;
+    }
+
+    @media (min-width: $min-md) {
+      width: 50%;
+
+      &:before {
+        content: '';
+
+        background-color: #fff;
+        height: 70%;
+        left: 0;
+        position: absolute;
+        top: 15%;
+        width: 1px;
+      }
+    }
+
+    &-lead {
+      margin: 0;
+      max-height: 4em;
+      transition: 200ms ease-in all;
+    }
+  }
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  @include container();
+  padding: 0;
+
+  &__title {
+    padding: 0 $gutter 3em $gutter;
+    width: 100%;
+    h2 {
+      font-size: 1.25em;
+      font-style: italic;
+      font-weight: normal;
+      margin: 0;
+    }
+  }
+
+  &__single {
+    align-items: flex-end;
+    display: flex;
+    padding: $gutter;
+    @media (min-width: $min-md) {
+      width: 50%;
+    }
+
+    &-title {
+      font-size: 1.25em;
+      font-weight: normal;
+      margin: 0;
+    }
+  }
+
+  a {
+    align-items: center;
+    border-bottom: 1px solid $color;
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    text-decoration: none;
+    width: 100%;
+
+    &:after {
+      content: '\2192';
+
+      opacity: 0;
+      transform: translateX(-100%);
+      transition: $transition-short;
+    }
+    &:hover {
+      &:after {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+  }
+}
+
+.footer {
+  @include container();
+  margin: 5em auto 10em auto;
+
+  p {
+    font-size: .8em;
+  }
+  img {
+    display: block;
+    max-width: 10em;
+  }
+}
+
+.project,
+.page {
+  @include container();
+
+  &__header {
+    @media (min-width: $min-md) {
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  &__title {
+    margin: 0;
+    @media (min-width: $min-md) {
+      margin: .5em 0;
+    }
+  }
+
+  &__meta {
+    font-size: .75em;
+    font-style: italic;
+    margin-bottom: 1em;
+
+    @media (min-width: $min-md) {
+      margin-bottom: 0;
+      text-align: right;
+      width: 6em;
+    }
+  }
+
+  &__nav {
+    @media (max-width: $max-lg) {
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+    }
+
+
+    &-arrow {
+      display: block;
+      font-style: italic;
+      text-align: center;
+      text-decoration: none;
+
+      @media (min-width: $min-lg) {
+        position: fixed;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+
+      &--prev {
+        left: $gutter;
+      }
+      &--next {
+        right: $gutter;
+      }
+    }
+  }
+
+  &__content {
+    img {
+      display: block;
+      margin: 1em auto;
+    }
+  }
+}

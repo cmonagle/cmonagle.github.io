@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: $color;
+  font-family: $font;
+  font-size: 16px;
+
+  @media (min-width: $min-md) {
+    font-size: 20px;
+  }
+
+  @media (min-width: $min-lg) {
+    font-size: 24px;
+  }
+}
+
+a {
+  color: $color;
+  text-decoration: underline;
+  transition: $transition-short;
+
+  &:hover {
+    color: darken($color, 10%);
+  }
+}
+
+.container {
+  height: 100%;
+  padding: .5em;
+  width: 100%;
+
+  &:before {
+    content: '';
+
+    border: .5em solid $color;
+    bottom: 0;
+    display: block;
+    left: 0;
+    pointer-events: none;
+    position: fixed;
+    right: 0;
+    top: 0;
+  }
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 1em;
+}
+
+h3 {
+  font-size: 1.5em;
+  font-weight: normal;
+  margin-top: 1em;
+}
+
+h4 {
+  font-size: 1.25em;
+  font-weight: normal;
+  margin-top: 1em;
+}
+
+h5 {
+  font-size: 1em;
+  font-weight: normal;
+  margin-top: .5em;
+}
+
+h6 {
+  font-size: 1em;
+  font-weight: normal;
+  margin-top: .5em;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+
+  & + p {
+    margin-top: 1em;
+  }
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+ul {
+  padding-left: 1.5em;
+}
