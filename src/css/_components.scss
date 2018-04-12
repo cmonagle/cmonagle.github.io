@@ -86,10 +86,8 @@
   }
   &__social {
     padding: $gutter;
-    @media (min-width: $min-md) {
-      width: 50%;
-    }
-
+    margin: 0 auto;
+    
     ul,
     li {
       list-style: none;

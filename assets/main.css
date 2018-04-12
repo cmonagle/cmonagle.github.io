@@ -179,10 +179,8 @@ ul {
     display: block;
     text-decoration: none; }
   .cta__social {
-    padding: 1em; }
-    @media (min-width: 600px) {
-      .cta__social {
-        width: 50%; } }
+    padding: 1em;
+    margin: 0 auto; }
     .cta__social ul,
     .cta__social li {
       list-style: none;
