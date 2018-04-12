@@ -6,10 +6,10 @@ var ctaScroll = {
         var that = this;
 
         window.addEventListener('scroll', function() {
-            if (document.body.scrollTop > 10) {
+            if (window.scrollY > 10) {
                 that.$elem.classList.add('cta--fixed');
             } else {
-                that.$elem.classList.remove('cta--fixed')
+                that.$elem.classList.remove('cta--fixed');
             }
         })
     }
@@ -43,7 +43,5 @@ h.ready(function() {
 
     ctaScroll.init();
     postNav.init();
-
-    console.log('%c Hi there! \n', 'color: #607d8b; font-family:serif; font-size: 30px; font-weight: bold;');
 
 });

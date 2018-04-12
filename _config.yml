@@ -8,7 +8,7 @@
 # Site settings
 title: Cameron Monagle
 email: cameron.jm@gmail.com
-description: Montreal Web Developer, progressive activist, and techy-type.
+description: Toronto Web Developer, progressive activist, and techy-type.
 biography: > # this means to ignore newlines until "baseurl:"
   Hi! I'm Cameron Monagle. I'm a Toronto base front-end web developer.
 baseurl: "" # the subpath of your site, e.g. /blog

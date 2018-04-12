@@ -1,5 +1,4 @@
 ---
-id: 134
 title: Semaphore Campaigns
 date: 2015-07-01T14:19:55+00:00
 author: cmonagle

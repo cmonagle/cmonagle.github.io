@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/cmonagle/cmonagle.github.io#readme",
   "devDependencies": {
+    "babel-core": "^6.26.0",
     "browser-sync": "^2.18.2",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
+    "gulp-babel": "^7.0.1",
     "gulp-concat": "^2.6.1",
     "gulp-imagemin": "^3.1.1",
     "gulp-minify": "0.0.14",
